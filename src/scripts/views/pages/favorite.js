@@ -1,4 +1,4 @@
-import FavoriteRestoIdb from '../../data/favorite-movie-idb'
+import FavoriteRestoIdb from '../../data/fav-resto-idb'
 import { createRestaurantItemTemplate } from '../templates/template-creator'
 
 const Like = {
